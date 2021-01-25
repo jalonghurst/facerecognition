@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with [Create React App]. Using JavaScript runtime Node.js and PostgreSQL backend server.
 
 See deployed app : https://smart-mind-face-react-app.herokuapp.com/
 
